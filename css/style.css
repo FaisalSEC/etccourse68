@@ -1,6 +1,6 @@
-html,body{font-family: 'Cairo', sans-serif;height: 100%;width: 100%;background-image: url(../img/bg.png); background-color: #318d7a}
-.btn-outline-success{border-radius: 25px;background-color: #318d7a;color: white;border-color: #318d7a;width: -webkit-fill-available;}
-.btn-outline-success:hover{background-color: #1a453c;border-color: #1a453c}
+html,body{font-family: 'Cairo', sans-serif;height: 100%;width: 100%;background-image: url(../img/bg.png); background-color: #68b0d6}
+.btn-outline-success{border-radius: 25px;background-color: #518aa8;color: white;border-color: #518aa8;width: -webkit-fill-available;}
+.btn-outline-success:hover{background-color: #03112c;border-color: #03112c}
 .main h1,h5,p{color: white;}
 .col-md-6 h1{padding-top: 150px}
 
@@ -12,15 +12,15 @@ html,body{font-family: 'Cairo', sans-serif;height: 100%;width: 100%;background-i
 
 .btn-outline-success:not(:disabled):not(.disabled).active, .btn-outline-success:not(:disabled):not(.disabled):active, .show>.btn-outline-success.dropdown-toggle {
     color: #fff;
-    background-color: #1a453c;
-    border-color: #1a453c;
+    background-color: #03112c;
+    border-color: #03112c;
 }
 
 
 
 
 .btn-outline-success.focus, .btn-outline-success:focus {
-    box-shadow:0 0 0 0.2rem #318d7a!important;
+    box-shadow:0 0 0 0.2rem #518aa8!important;
 }
 
 

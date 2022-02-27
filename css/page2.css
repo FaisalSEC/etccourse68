@@ -199,16 +199,16 @@ a.article:hover {
     color: #fff !important;
 }
 .bg-light {
-    background-color: #356560!important;
+    background-color: #518aa8!important;
 }
-.breadcrumb{background-color: #356560;direction: rtl;}
+.breadcrumb{background-color: #518aa8;direction: rtl;}
 .breadcrumb a{color: white}
 .breadcrumb-item.active{color: white}
 /* ---------------------------------------------------
     CONTENT STYLE
 ----------------------------------------------------- */
 .btn-secondary{background-color: #F7F9FB;border-color: #F7F9FB;border-radius: 20px;color: #1a453c;}
-.btn-secondary:hover{background-color: #1a453c;border-color: #1a453c}
+.btn-secondary:hover{background-color: #03112c;border-color: #03112c}
 #content {
     width: 100%;
     
